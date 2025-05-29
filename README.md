@@ -43,12 +43,10 @@ To get the visuals, click the links below
 https://drive.google.com/file/d/1KkNL9s9kIGIvci_3351WQa0fAf3GJ9L2/view?usp=drive_link
 https://drive.google.com/file/d/12cxuCup79CKoYgZC6DQCAZr1iENRigP0/view?usp=drive_link
 
-for the dataset;
+For the dataset;
 https://docs.google.com/spreadsheets/d/1EUVNIZSZbHqEwkw3q8LEovMBOtaRNlJi/edit?usp=drive_link&ouid=103519660283319105525&rtpof=true&sd=true
 https://docs.google.com/spreadsheets/d/1uDyYPVNTlKwYYrrFyAlTQKH0aR39ynYR/edit?usp=drive_link&ouid=103519660283319105525&rtpof=true&sd=true
 
-to get an overview of reports;
-https://drive.google.com/file/d/17YHk8KkwYu1HWBRlZRKb-eq_J5cH8A5g/view?usp=sharing
-Once the link is opened in drive.com, select the option open with and choose the link below;
+To get an overview of reports;
 
 https://app.diagrams.net/?splash=0#G17YHk8KkwYu1HWBRlZRKb-eq_J5cH8A5g#%7B%22pageId%22%3A%22hkGSH2E9-b7HStfkXKsA%22%7D
