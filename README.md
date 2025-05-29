@@ -48,4 +48,7 @@ https://docs.google.com/spreadsheets/d/1EUVNIZSZbHqEwkw3q8LEovMBOtaRNlJi/edit?us
 https://docs.google.com/spreadsheets/d/1uDyYPVNTlKwYYrrFyAlTQKH0aR39ynYR/edit?usp=drive_link&ouid=103519660283319105525&rtpof=true&sd=true
 
 to get an overview of reports;
-https://drive.google.com/file/d/1XNsF_3W_zepZBvmttEN8CObAGuyEGCrm/view?usp=sharing
+https://drive.google.com/file/d/17YHk8KkwYu1HWBRlZRKb-eq_J5cH8A5g/view?usp=sharing
+Once the link is opened in drive.com, select the option open with and choose the link below;
+
+https://app.diagrams.net/?splash=0#G17YHk8KkwYu1HWBRlZRKb-eq_J5cH8A5g#%7B%22pageId%22%3A%22hkGSH2E9-b7HStfkXKsA%22%7D
