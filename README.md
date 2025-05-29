@@ -38,3 +38,7 @@ The ECA region has a total percentage of 33.43%, holding the highest percentage.
 
 So that’s it for our visualization.
 ###
+
+To get the visuals, click the links below
+https://drive.google.com/file/d/1KkNL9s9kIGIvci_3351WQa0fAf3GJ9L2/view?usp=drive_link
+https://drive.google.com/file/d/12cxuCup79CKoYgZC6DQCAZr1iENRigP0/view?usp=drive_link
